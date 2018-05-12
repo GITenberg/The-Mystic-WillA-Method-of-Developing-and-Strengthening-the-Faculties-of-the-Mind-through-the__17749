@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/243
     wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17749#The-Mystic-WillA-Method-of-Developing-and-Strengthening-the-Faculties-of-the-Mind-through-the_
 gutenberg_issued: '2006-02-10'
 gutenberg_type: Text
 identifiers:
