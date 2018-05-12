@@ -1,0 +1,35 @@
+_repo: The-Mystic-WillA-Method-of-Developing-and-Strengthening-the-Faculties-of-the-Mind-through-the__17749
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leland, Charles Godfrey
+    aliases:
+    - Breitman, Hans
+    - Leland, Charles G.
+    - Breitmann, Hans
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '243'
+    url: http://www.gutenberg.org/2009/agents/243
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
+description: ''
+gutenberg_issued: '2006-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RZ'
+- !lcsh 'Mental suggestion'
+title: 'The Mystic Will
+
+  A Method of Developing and Strengthening the Faculties of the Mind, through the
+  Awakened Will, by a Simple, Scientific Process Possible to Any Person of Ordinary
+  Intelligence'
+url: http://www.gutenberg.org/ebooks/17749
